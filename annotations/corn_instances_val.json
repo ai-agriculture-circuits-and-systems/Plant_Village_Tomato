@@ -1,0 +1,705 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0.0",
+    "description": "Plant Village Corn corn val split",
+    "url": "https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "corn/images/005318c8-a5fa-4420-843b-23bdda7322c2___RS_NLB_3853_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 2,
+      "file_name": "corn/images/07f54257-0ec8-4bce-991f-90d46646d4f8___RS_GLSp_4378_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 3,
+      "file_name": "corn/images/0ce6543f-9694-4b3a-b767-9bc909f54f73___RS_GLSp_4663_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 4,
+      "file_name": "corn/images/0dbbcb82-756e-48a6-94f4-3a8f1e1cedda___RS_GLSp_4587_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 5,
+      "file_name": "corn/images/0fc63695-5bae-4313-ae41-9e9e09ce855b___R.S_HL_0620_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 6,
+      "file_name": "corn/images/137762d7-fcd5-405c-a4d5-4096321951d0___RS_GLSp_9345_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 7,
+      "file_name": "corn/images/1398ccad-700f-476f-ae12-fee3ccaa1931___RS_NLB_3978_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 8,
+      "file_name": "corn/images/1517209e-897b-4ad5-b43a-8c9a8573c862___RS_NLB_4156_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 9,
+      "file_name": "corn/images/15297d24-b99b-4c9b-91b5-c09057867aef___R.S_HL_8028_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 10,
+      "file_name": "corn/images/18aae193-d119-417b-837a-84f33835e788___RS_GLSp_4497_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 11,
+      "file_name": "corn/images/1b969db5-ff14-4340-94c2-c4bafd6e35b9___R.S_HL_0639_copy_3_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 12,
+      "file_name": "corn/images/1f36d729-d193-4824-a159-a6085f2b7159___RS_NLB_3741_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 13,
+      "file_name": "corn/images/2769e7a4-1f58-4534-b0e3-39f5646133e4___R.S_HL_5547_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 14,
+      "file_name": "corn/images/2854f11d-f6ce-4c3e-8a9d-026ae2cc9747___R.S_HL_8179_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 15,
+      "file_name": "corn/images/34ae03ee-4314-47b1-a568-f3537bc2afba___RS_NLB_3672_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 16,
+      "file_name": "corn/images/38b16a51-d4cf-4070-b973-47ec6a367d9f___R.S_HL_0653_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 17,
+      "file_name": "corn/images/3a7861a7-1fc8-4986-8c21-5bef0ebeb3cb___R.S_HL_8087_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 18,
+      "file_name": "corn/images/3aeb9908-679b-4d53-8925-5b436d0961d8___RS_GLSp_9317_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 19,
+      "file_name": "corn/images/3fdabf59-5491-411c-b61e-c3fc0bbb3831___R.S_HL_8097_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 20,
+      "file_name": "corn/images/48beb71e-555f-4510-9951-a57f7edce204___RS_GLSp_9334_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 21,
+      "file_name": "corn/images/4dd0d54d-37bf-48cf-a3be-420949d5b2fd___R.S_HL_8235_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 22,
+      "file_name": "corn/images/50fe7549-e9f5-4104-abdc-b78630c0483e___R.S_HL_8185_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 23,
+      "file_name": "corn/images/51261199-c0d9-43e1-a6cb-4275e6879b2e___R.S_HL_8089_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 24,
+      "file_name": "corn/images/5544871e-cc3b-47ba-92fb-d189b04d3b2e___RS_NLB_3728_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 25,
+      "file_name": "corn/images/592b6242-4900-41f6-8ec0-d2549c3bcb73___R.S_HL_8043_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 26,
+      "file_name": "corn/images/598ba05d-f9b0-46da-803f-ed4276534ede___RS_GLSp_4414_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 27,
+      "file_name": "corn/images/6089948d-346f-4745-af12-4355a7ef3dea___RS_NLB_3800_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 28,
+      "file_name": "corn/images/620e70fd-98d9-40c4-b9a9-803080d1d371___R.S_HL_7968_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 29,
+      "file_name": "corn/images/695000c6-5857-45af-a8cb-470bfeedf274___R.S_HL_7970_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 30,
+      "file_name": "corn/images/6a03e78b-bfa6-4fd5-9927-1b8171f5367a___R.S_HL_8132_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 31,
+      "file_name": "corn/images/6e32f66d-c54c-4df4-9894-e7aa3ff748d9___R.S_HL_0620_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 32,
+      "file_name": "corn/images/6fe6882b-fa5b-4e99-a1c8-3d227ceb4b40___R.S_HL_7958_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 33,
+      "file_name": "corn/images/7c3b05fe-d387-4542-8a0b-d027d7c9a72c___RS_NLB_0821_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 34,
+      "file_name": "corn/images/7dcf62d0-3500-4902-bfe8-e5eab0dcdcaa___RS_NLB_4119_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 35,
+      "file_name": "corn/images/8063bae7-2a39-449b-b3f4-7004e86c45de___R.S_HL_8277_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 36,
+      "file_name": "corn/images/8442e3a8-1010-4dbb-8293-3f427e1ddeb3___RS_NLB_4001_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 37,
+      "file_name": "corn/images/85e4fe16-e125-4f1c-8bda-d085106cce47___R.S_HL_8246_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 38,
+      "file_name": "corn/images/86d512cb-65b5-401d-8b98-43cd03dbe815___RS_GLSp_9332_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 39,
+      "file_name": "corn/images/8c3fa556-9a06-4f43-bfe6-17bcfabb1d8e___RS_NLB_0809_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 40,
+      "file_name": "corn/images/8ead1e08-eb49-4c03-b99f-f46f3597087d___RS_GLSp_4474_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 41,
+      "file_name": "corn/images/9b89434d-522e-49de-9587-80055bef7a7d___R.S_HL_0609_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 42,
+      "file_name": "corn/images/RS_Rust_1570.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 43,
+      "file_name": "corn/images/RS_Rust_1580.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 44,
+      "file_name": "corn/images/RS_Rust_1603.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 45,
+      "file_name": "corn/images/RS_Rust_1610.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 46,
+      "file_name": "corn/images/RS_Rust_1636_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 47,
+      "file_name": "corn/images/RS_Rust_1641_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 48,
+      "file_name": "corn/images/RS_Rust_1713.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 49,
+      "file_name": "corn/images/RS_Rust_1813.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 50,
+      "file_name": "corn/images/RS_Rust_1867_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 51,
+      "file_name": "corn/images/RS_Rust_1885_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 52,
+      "file_name": "corn/images/RS_Rust_2023_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 53,
+      "file_name": "corn/images/RS_Rust_2026.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 54,
+      "file_name": "corn/images/RS_Rust_2070_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 55,
+      "file_name": "corn/images/RS_Rust_2154_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 56,
+      "file_name": "corn/images/RS_Rust_2227_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 57,
+      "file_name": "corn/images/RS_Rust_2230_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 58,
+      "file_name": "corn/images/RS_Rust_2320_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 59,
+      "file_name": "corn/images/RS_Rust_2349_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 60,
+      "file_name": "corn/images/RS_Rust_2372.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 61,
+      "file_name": "corn/images/RS_Rust_2386.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 62,
+      "file_name": "corn/images/RS_Rust_2442.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 63,
+      "file_name": "corn/images/RS_Rust_2445.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 64,
+      "file_name": "corn/images/RS_Rust_2467.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 65,
+      "file_name": "corn/images/RS_Rust_2468_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 66,
+      "file_name": "corn/images/RS_Rust_2520_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 67,
+      "file_name": "corn/images/RS_Rust_2549.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 68,
+      "file_name": "corn/images/RS_Rust_2555.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 69,
+      "file_name": "corn/images/RS_Rust_2561.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 70,
+      "file_name": "corn/images/RS_Rust_2650.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 71,
+      "file_name": "corn/images/RS_Rust_2712_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 72,
+      "file_name": "corn/images/RS_Rust_2714.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 73,
+      "file_name": "corn/images/RS_Rust_2727.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 74,
+      "file_name": "corn/images/RS_Rust_2763_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 75,
+      "file_name": "corn/images/a734f999-8a2c-404e-a46c-7fc8d6f7883a___R.S_HL_8047_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 76,
+      "file_name": "corn/images/ac42d899-17ee-4807-a822-dbb105fd88eb___RS_NLB_3965_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 77,
+      "file_name": "corn/images/ad1fe4c1-9eb7-4159-968f-d2f0e85c0870___R.S_HL_8253_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 78,
+      "file_name": "corn/images/ae1f25a2-402d-4ada-822f-43f0967a566a___RS_GLSp_4324_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 79,
+      "file_name": "corn/images/ae6d6958-016c-4a24-8963-558bcf7db294___R.S_HL_5509_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 80,
+      "file_name": "corn/images/b14bcb73-04d0-4e27-8cf3-9d26bdc1a8d7___R.S_HL_0612_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 81,
+      "file_name": "corn/images/b5069c6e-a377-46a8-a53c-1275896c3036___R.S_HL_8235_copy_2_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 82,
+      "file_name": "corn/images/b665c826-905b-46de-903e-3946b3e65365___R.S_HL_0633_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 83,
+      "file_name": "corn/images/b710abba-f82e-4d13-9d39-1522a1c8ab33___RS_GLSp_4432_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 84,
+      "file_name": "corn/images/bbde9366-ec3c-4354-815b-5b95b6cdb676___RS_GLSp_4481_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 85,
+      "file_name": "corn/images/bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp_4582_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 86,
+      "file_name": "corn/images/bc6c495b-3b17-45fa-8ff6-2e8bd528c5a5___RS_NLB_3562_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 87,
+      "file_name": "corn/images/bd9db5fe-e2d1-4c56-807d-2e90ea2fb6bf___RS_GLSp_4406_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 88,
+      "file_name": "corn/images/be702c5c-99be-4d1e-a16d-89995cb141dc___RS_GLSp_9293_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 89,
+      "file_name": "corn/images/c9611299-771d-4f9e-831c-cf1194f48ef2___RS_NLB_4148_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 90,
+      "file_name": "corn/images/cba024bb-6180-4f1e-ad79-57b35c035a60___R.S_HL_8237_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 91,
+      "file_name": "corn/images/d1265756-90d5-4126-943b-4bff5b1e8277___RS_NLB_3904_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 92,
+      "file_name": "corn/images/d3e2528d-3e05-4dc0-bb6b-56dcf17d01d6___RS_GLSp_7316_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 93,
+      "file_name": "corn/images/da416e40-8b10-4d39-86ed-9da9396d98f0___R.S_HL_8278_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 94,
+      "file_name": "corn/images/dd75c294-d976-4be5-8efc-889f8b00883f___RS_NLB_4030_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 95,
+      "file_name": "corn/images/e2199152-0f4e-44bf-8edd-4c4392494b8b___RS_GLSp_4578_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 96,
+      "file_name": "corn/images/e2f25942-e7f3-4ca8-8177-f029da9ca151___R.S_HL_0601_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 97,
+      "file_name": "corn/images/e2fc31a8-6b0e-4c15-9fba-2024d2295827___RS_NLB_4229_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 98,
+      "file_name": "corn/images/e468a247-3cc3-414b-8d9b-efde65b2aad6___RS_NLB_3937_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 99,
+      "file_name": "corn/images/e5a2b441-8173-4c41-a56f-d359b1196719___R.S_HL_8119_copy_2_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 100,
+      "file_name": "corn/images/e8b34671-6d1a-40e2-a888-981c0e047b14___R.S_HL_8143_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 101,
+      "file_name": "corn/images/e8fe9001-df63-40de-bc41-fc250863a705___RS_NLB_4205_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 102,
+      "file_name": "corn/images/e905b0c6-95c0-446b-a2b0-c49d66704923___R.S_HL_0634_copy_3_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 103,
+      "file_name": "corn/images/f0519795-ad80-4e8c-9b03-71843202c86e___RS_GLSp_7284_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 104,
+      "file_name": "corn/images/f107d1f3-52c3-459b-ad51-5fb0719368da___R.S_HL_8283_copy_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 105,
+      "file_name": "corn/images/f339c8f8-0de3-427f-86ce-2d3258794ad2___RS_NLB_4176_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 106,
+      "file_name": "corn/images/f586f423-9d98-4050-8c90-0b6a3a5e89f8___RS_NLB_3862_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 107,
+      "file_name": "corn/images/f60dfedb-02f5-4c39-b66e-9c29a58d0ae4___RS_GLSp_4417_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 108,
+      "file_name": "corn/images/f6c931a8-b023-4368-bb35-0e7a62a74f48___R.S_HL_8033_copy_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 109,
+      "file_name": "corn/images/fb8ff65c-92ef-4607-9a43-ee2e2f8f4c05___R.S_HL_7997_copy_3_final_masked_1.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 110,
+      "file_name": "corn/images/fcdc4514-7dfa-4003-aebd-27692e0853dd___RS_NLB_3705_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": 111,
+      "file_name": "corn/images/fd4eff3c-6bfb-42ad-bc34-5ae0f7e30c0f___RS_NLB_0769_final_masked.jpg",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "corn"
+    },
+    {
+      "id": 1,
+      "name": "healthy",
+      "supercategory": "corn"
+    },
+    {
+      "id": 2,
+      "name": "common_rust",
+      "supercategory": "corn"
+    },
+    {
+      "id": 3,
+      "name": "gray_leaf_spot",
+      "supercategory": "corn"
+    },
+    {
+      "id": 4,
+      "name": "northern_leaf_blight",
+      "supercategory": "corn"
+    }
+  ],
+  "licenses": []
+}
