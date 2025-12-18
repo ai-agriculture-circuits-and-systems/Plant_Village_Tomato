@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6359048556,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1884).JPG",
+      "size": 16701,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6354159563,
+      "image_id": 6359048556,
+      "category_id": 1000000028,
+      "segmentation": [],
+      "area": 3265,
+      "bbox": [
+        56,
+        150,
+        121,
+        93
+      ]
+    },
+    {
+      "id": 8223240563,
+      "image_id": 6359048556,
+      "category_id": 1000000028,
+      "segmentation": [],
+      "area": 366,
+      "bbox": [
+        193,
+        143,
+        27,
+        49
+      ]
+    },
+    {
+      "id": 6972891563,
+      "image_id": 6359048556,
+      "category_id": 1000000028,
+      "segmentation": [],
+      "area": 261,
+      "bbox": [
+        27,
+        48,
+        17,
+        48
+      ]
+    },
+    {
+      "id": 2264906563,
+      "image_id": 6359048556,
+      "category_id": 1000000028,
+      "segmentation": [],
+      "area": 232,
+      "bbox": [
+        42,
+        15,
+        90,
+        33
+      ]
+    },
+    {
+      "id": 2968070563,
+      "image_id": 6359048556,
+      "category_id": 1000000028,
+      "segmentation": [],
+      "area": 434,
+      "bbox": [
+        132,
+        9,
+        74,
+        33
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000028,
+      "name": "Bacterial_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

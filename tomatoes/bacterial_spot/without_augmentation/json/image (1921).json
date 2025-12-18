@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 20.0,
+      "source": "plant_village_classification",
+      "original_filename": "GCREC_Bact.Sp 3022.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 3088100305,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1921).JPG",
+      "size": 11204,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "GCREC_Bact.Sp 3022.JPG",
+      "pvc_filename": "ea4ddb4b-216a-4ec2-85bc-06314c7de145___GCREC_Bact.Sp 3022.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7605210312,
+      "image_id": 3088100305,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 128,
+      "bbox": [
+        56,
+        127,
+        23,
+        24
+      ]
+    },
+    {
+      "id": 9016843313,
+      "image_id": 3088100305,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 1623,
+      "bbox": [
+        23,
+        51,
+        94,
+        63
+      ]
+    },
+    {
+      "id": 5170375313,
+      "image_id": 3088100305,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 425,
+      "bbox": [
+        197,
+        83,
+        39,
+        29
+      ]
+    },
+    {
+      "id": 6172123313,
+      "image_id": 3088100305,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 170,
+      "bbox": [
+        29,
+        57,
+        24,
+        25
+      ]
+    },
+    {
+      "id": 7814882313,
+      "image_id": 3088100305,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 1101,
+      "bbox": [
+        48,
+        5,
+        92,
+        65
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000028,
+      "name": "Bacterial_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

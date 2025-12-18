@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 376.0,
+      "source": "plant_village_classification",
+      "original_filename": "GCREC_Bact.Sp 6136.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 9756936763,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1722).JPG",
+      "size": 13903,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "GCREC_Bact.Sp 6136.JPG",
+      "pvc_filename": "d8d99dae-78a8-46f4-b7ad-600e0685d592___GCREC_Bact.Sp 6136.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2942715772,
+      "image_id": 9756936763,
+      "category_id": 2000000028,
+      "segmentation": [],
+      "area": 4520,
+      "bbox": [
+        7,
+        42,
+        216,
+        204
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000028,
+      "name": "Bacterial_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}
