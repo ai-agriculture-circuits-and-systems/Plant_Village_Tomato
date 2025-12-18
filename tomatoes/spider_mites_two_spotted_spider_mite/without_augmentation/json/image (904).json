@@ -1,0 +1,68 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 63.0,
+      "source": "plant_village_classification",
+      "original_filename": "Com.G_SpM_FL 1385.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5201769880,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (904).JPG",
+      "size": 21447,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Com.G_SpM_FL 1385.JPG",
+      "pvc_filename": "61425a6d-4f24-4306-b085-f91143e04be9___Com.G_SpM_FL 1385.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9647908888,
+      "image_id": 5201769880,
+      "category_id": 2000000034,
+      "segmentation": [],
+      "area": 12959,
+      "bbox": [
+        39,
+        25,
+        190,
+        211
+      ]
+    },
+    {
+      "id": 1535784888,
+      "image_id": 5201769880,
+      "category_id": 2000000034,
+      "segmentation": [],
+      "area": 442,
+      "bbox": [
+        112,
+        83,
+        46,
+        39
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000034,
+      "name": "Spider_mites Two-spotted_spider_mite",
+      "supercategory": "Tomato"
+    }
+  ]
+}

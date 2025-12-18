@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 10.0,
+      "source": "plant_village_classification",
+      "original_filename": "Matt.S_CG 0751.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5378037740,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (152).JPG",
+      "size": 10595,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Matt.S_CG 0751.JPG",
+      "pvc_filename": "3d638a43-43eb-4f93-85bf-b1cc41ab117f___Matt.S_CG 0751.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7457762752,
+      "image_id": 5378037740,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 2322,
+      "bbox": [
+        60,
+        65,
+        82,
+        110
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000033,
+      "name": "Septoria_leaf_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

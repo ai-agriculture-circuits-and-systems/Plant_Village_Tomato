@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9594467160,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1002).JPG",
+      "size": 18619,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6845136168,
+      "image_id": 9594467160,
+      "category_id": 1000000033,
+      "segmentation": [],
+      "area": 4024,
+      "bbox": [
+        60,
+        116,
+        170,
+        131
+      ]
+    },
+    {
+      "id": 3284740168,
+      "image_id": 9594467160,
+      "category_id": 1000000033,
+      "segmentation": [],
+      "area": 116,
+      "bbox": [
+        70,
+        121,
+        26,
+        21
+      ]
+    },
+    {
+      "id": 6796870168,
+      "image_id": 9594467160,
+      "category_id": 1000000033,
+      "segmentation": [],
+      "area": 5075,
+      "bbox": [
+        23,
+        23,
+        132,
+        106
+      ]
+    },
+    {
+      "id": 2532731168,
+      "image_id": 9594467160,
+      "category_id": 1000000033,
+      "segmentation": [],
+      "area": 445,
+      "bbox": [
+        177,
+        86,
+        52,
+        31
+      ]
+    },
+    {
+      "id": 5135077168,
+      "image_id": 9594467160,
+      "category_id": 1000000033,
+      "segmentation": [],
+      "area": 1820,
+      "bbox": [
+        87,
+        5,
+        129,
+        56
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000033,
+      "name": "Septoria_leaf_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

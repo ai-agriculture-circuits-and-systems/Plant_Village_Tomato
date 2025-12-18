@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8371265193,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1032).JPG",
+      "size": 19827,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6795399201,
+      "image_id": 8371265193,
+      "category_id": 1000000034,
+      "segmentation": [],
+      "area": 6252,
+      "bbox": [
+        35,
+        3,
+        198,
+        172
+      ]
+    },
+    {
+      "id": 3681161201,
+      "image_id": 8371265193,
+      "category_id": 1000000034,
+      "segmentation": [],
+      "area": 689,
+      "bbox": [
+        144,
+        96,
+        56,
+        55
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000034,
+      "name": "Spider_mites Two-spotted_spider_mite",
+      "supercategory": "Tomato"
+    }
+  ]
+}

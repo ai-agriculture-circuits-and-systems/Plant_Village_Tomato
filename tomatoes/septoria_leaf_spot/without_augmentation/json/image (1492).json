@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 55.0,
+      "source": "plant_village_classification",
+      "original_filename": "Matt.S_CG 1455.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5416048265,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1492).JPG",
+      "size": 17648,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Matt.S_CG 1455.JPG",
+      "pvc_filename": "db3eb90c-cdbe-42d5-8822-5ed9cbda10fa___Matt.S_CG 1455.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7252713275,
+      "image_id": 5416048265,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 6071,
+      "bbox": [
+        112,
+        35,
+        119,
+        212
+      ]
+    },
+    {
+      "id": 3818345275,
+      "image_id": 5416048265,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 1788,
+      "bbox": [
+        70,
+        130,
+        65,
+        83
+      ]
+    },
+    {
+      "id": 3611518275,
+      "image_id": 5416048265,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 439,
+      "bbox": [
+        52,
+        104,
+        34,
+        34
+      ]
+    },
+    {
+      "id": 6305050275,
+      "image_id": 5416048265,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 161,
+      "bbox": [
+        111,
+        104,
+        25,
+        27
+      ]
+    },
+    {
+      "id": 3027932275,
+      "image_id": 5416048265,
+      "category_id": 2000000033,
+      "segmentation": [],
+      "area": 1408,
+      "bbox": [
+        0,
+        34,
+        59,
+        77
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000033,
+      "name": "Septoria_leaf_spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}
