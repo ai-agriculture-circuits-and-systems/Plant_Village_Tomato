@@ -1,0 +1,81 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 45.0,
+      "source": "plant_village_classification",
+      "original_filename": "Crnl_L.Mold 6722.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5265792622,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (467).JPG",
+      "size": 18803,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Crnl_L.Mold 6722.JPG",
+      "pvc_filename": "4721ba47-ec00-4557-bca6-ba454ddcb9a9___Crnl_L.Mold 6722.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7329311628,
+      "image_id": 5265792622,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 9871,
+      "bbox": [
+        48,
+        76,
+        171,
+        167
+      ]
+    },
+    {
+      "id": 7572122628,
+      "image_id": 5265792622,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 1317,
+      "bbox": [
+        80,
+        61,
+        68,
+        57
+      ]
+    },
+    {
+      "id": 2219856628,
+      "image_id": 5265792622,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 894,
+      "bbox": [
+        33,
+        42,
+        99,
+        46
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000032,
+      "name": "Leaf_Mold",
+      "supercategory": "Tomato"
+    }
+  ]
+}

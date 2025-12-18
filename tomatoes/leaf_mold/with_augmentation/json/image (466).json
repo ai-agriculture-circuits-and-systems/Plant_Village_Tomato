@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4060434981,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (466).JPG",
+      "size": 16219,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6812043991,
+      "image_id": 4060434981,
+      "category_id": 1000000032,
+      "segmentation": [],
+      "area": 17027,
+      "bbox": [
+        18,
+        10,
+        197,
+        225
+      ]
+    },
+    {
+      "id": 3424251991,
+      "image_id": 4060434981,
+      "category_id": 1000000032,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        202,
+        166,
+        12,
+        26
+      ]
+    },
+    {
+      "id": 7917416991,
+      "image_id": 4060434981,
+      "category_id": 1000000032,
+      "segmentation": [],
+      "area": 495,
+      "bbox": [
+        87,
+        128,
+        34,
+        31
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000032,
+      "name": "Leaf_Mold",
+      "supercategory": "Tomato"
+    }
+  ]
+}

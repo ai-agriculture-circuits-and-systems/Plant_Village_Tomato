@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4601464187,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1153).JPG",
+      "size": 18786,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4870872197,
+      "image_id": 4601464187,
+      "category_id": 1000000031,
+      "segmentation": [],
+      "area": 12116,
+      "bbox": [
+        19,
+        54,
+        200,
+        171
+      ]
+    },
+    {
+      "id": 3683678197,
+      "image_id": 4601464187,
+      "category_id": 1000000031,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        135,
+        124,
+        10,
+        18
+      ]
+    },
+    {
+      "id": 7925209197,
+      "image_id": 4601464187,
+      "category_id": 1000000031,
+      "segmentation": [],
+      "area": 499,
+      "bbox": [
+        0,
+        81,
+        24,
+        56
+      ]
+    },
+    {
+      "id": 8395745197,
+      "image_id": 4601464187,
+      "category_id": 1000000031,
+      "segmentation": [],
+      "area": 144,
+      "bbox": [
+        41,
+        106,
+        19,
+        31
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000031,
+      "name": "Late_blight",
+      "supercategory": "Tomato"
+    }
+  ]
+}

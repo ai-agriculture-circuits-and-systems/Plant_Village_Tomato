@@ -1,0 +1,64 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 5698347293,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (739).JPG",
+      "size": 16413,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "GHLB2 Leaf 149.3.JPG",
+      "pvc_filename": "118be78d-e498-427f-8399-add5e8ab1b15___GHLB2 Leaf 149.3.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3823952305,
+      "image_id": 5698347293,
+      "category_id": 2000000031,
+      "segmentation": [],
+      "area": 11304,
+      "bbox": [
+        68,
+        25,
+        115,
+        204
+      ]
+    },
+    {
+      "id": 8068492305,
+      "image_id": 5698347293,
+      "category_id": 2000000031,
+      "segmentation": [],
+      "area": 206,
+      "bbox": [
+        103,
+        58,
+        25,
+        12
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000031,
+      "name": "Late_blight",
+      "supercategory": "Tomato"
+    }
+  ]
+}

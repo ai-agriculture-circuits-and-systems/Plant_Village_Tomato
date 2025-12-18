@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 69.0,
+      "source": "plant_village_classification",
+      "original_filename": "Crnl_L.Mold 6849.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 8030049196,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (224).JPG",
+      "size": 20033,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Crnl_L.Mold 6849.JPG",
+      "pvc_filename": "20bfb40a-3fac-43d0-8864-feb28b97b9cd___Crnl_L.Mold 6849.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4746363206,
+      "image_id": 8030049196,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 4141,
+      "bbox": [
+        48,
+        96,
+        149,
+        143
+      ]
+    },
+    {
+      "id": 7997974206,
+      "image_id": 8030049196,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 279,
+      "bbox": [
+        145,
+        183,
+        22,
+        24
+      ]
+    },
+    {
+      "id": 3495230206,
+      "image_id": 8030049196,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 418,
+      "bbox": [
+        26,
+        73,
+        23,
+        70
+      ]
+    },
+    {
+      "id": 3815946206,
+      "image_id": 8030049196,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 240,
+      "bbox": [
+        97,
+        91,
+        22,
+        17
+      ]
+    },
+    {
+      "id": 9547462206,
+      "image_id": 8030049196,
+      "category_id": 2000000032,
+      "segmentation": [],
+      "area": 242,
+      "bbox": [
+        65,
+        19,
+        50,
+        41
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000032,
+      "name": "Leaf_Mold",
+      "supercategory": "Tomato"
+    }
+  ]
+}
