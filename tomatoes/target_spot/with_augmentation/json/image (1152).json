@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7827729298,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1152).JPG",
+      "size": 23867,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1211050308,
+      "image_id": 7827729298,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 11521,
+      "bbox": [
+        30,
+        13,
+        197,
+        243
+      ]
+    },
+    {
+      "id": 7445718308,
+      "image_id": 7827729298,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 221,
+      "bbox": [
+        97,
+        169,
+        29,
+        24
+      ]
+    },
+    {
+      "id": 1212786308,
+      "image_id": 7827729298,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        90,
+        143,
+        28,
+        15
+      ]
+    },
+    {
+      "id": 2117774308,
+      "image_id": 7827729298,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 146,
+      "bbox": [
+        176,
+        121,
+        24,
+        17
+      ]
+    },
+    {
+      "id": 7243548308,
+      "image_id": 7827729298,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 136,
+      "bbox": [
+        152,
+        18,
+        33,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000035,
+      "name": "Target_Spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

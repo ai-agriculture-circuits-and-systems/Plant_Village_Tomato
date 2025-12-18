@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4013783442,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (565).JPG",
+      "size": 12682,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2552263451,
+      "image_id": 4013783442,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 173,
+      "bbox": [
+        68,
+        190,
+        30,
+        16
+      ]
+    },
+    {
+      "id": 2274161451,
+      "image_id": 4013783442,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        195,
+        102,
+        36,
+        19
+      ]
+    },
+    {
+      "id": 7622275451,
+      "image_id": 4013783442,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 133,
+      "bbox": [
+        213,
+        81,
+        22,
+        13
+      ]
+    },
+    {
+      "id": 5801993451,
+      "image_id": 4013783442,
+      "category_id": 1000000035,
+      "segmentation": [],
+      "area": 176,
+      "bbox": [
+        118,
+        16,
+        21,
+        30
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000035,
+      "name": "Target_Spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

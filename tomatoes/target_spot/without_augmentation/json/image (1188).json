@@ -1,0 +1,64 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 6768391576,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1188).JPG",
+      "size": 18770,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Com.G_TgS_FL 9954.JPG",
+      "pvc_filename": "dc5a8cae-e762-467c-b23f-93c8c60c10b5___Com.G_TgS_FL 9954.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9189414584,
+      "image_id": 6768391576,
+      "category_id": 2000000035,
+      "segmentation": [],
+      "area": 11721,
+      "bbox": [
+        27,
+        11,
+        218,
+        231
+      ]
+    },
+    {
+      "id": 8021336584,
+      "image_id": 6768391576,
+      "category_id": 2000000035,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        86,
+        58,
+        14,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000035,
+      "name": "Target_Spot",
+      "supercategory": "Tomato"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 417.0,
+      "source": "plant_village_classification",
+      "original_filename": "YLCV_NREC 0248.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 1470720323,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1853).JPG",
+      "size": 18194,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "YLCV_NREC 0248.JPG",
+      "pvc_filename": "62fea374-0816-437f-bda3-92ce04bb6859___YLCV_NREC 0248.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1740330330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 3073,
+      "bbox": [
+        59,
+        56,
+        171,
+        141
+      ]
+    },
+    {
+      "id": 1817520330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 414,
+      "bbox": [
+        142,
+        125,
+        37,
+        49
+      ]
+    },
+    {
+      "id": 3095775330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 463,
+      "bbox": [
+        145,
+        102,
+        45,
+        45
+      ]
+    },
+    {
+      "id": 4138850330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 186,
+      "bbox": [
+        102,
+        86,
+        28,
+        54
+      ]
+    },
+    {
+      "id": 4188770330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 253,
+      "bbox": [
+        146,
+        88,
+        40,
+        16
+      ]
+    },
+    {
+      "id": 3454203330,
+      "image_id": 1470720323,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 137,
+      "bbox": [
+        84,
+        60,
+        25,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000037,
+      "name": "Tomato_Yellow_Leaf_Curl_Virus",
+      "supercategory": "Tomato"
+    }
+  ]
+}

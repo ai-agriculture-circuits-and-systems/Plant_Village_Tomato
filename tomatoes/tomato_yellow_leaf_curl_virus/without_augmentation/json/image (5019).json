@@ -1,0 +1,64 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 1596023953,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (5019).JPG",
+      "size": 7848,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "UF.GRC_YLCV_Lab 02987.JPG",
+      "pvc_filename": "f2acaa47-b38b-401f-bb21-3ddcb58d7852___UF.GRC_YLCV_Lab 02987.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3647888955,
+      "image_id": 1596023953,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 12276,
+      "bbox": [
+        42,
+        60,
+        175,
+        162
+      ]
+    },
+    {
+      "id": 4502901955,
+      "image_id": 1596023953,
+      "category_id": 2000000037,
+      "segmentation": [],
+      "area": 1187,
+      "bbox": [
+        89,
+        11,
+        51,
+        81
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000037,
+      "name": "Tomato_Yellow_Leaf_Curl_Virus",
+      "supercategory": "Tomato"
+    }
+  ]
+}

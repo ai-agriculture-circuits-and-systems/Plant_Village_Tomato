@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2713667915,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (364).JPG",
+      "size": 17045,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6688573925,
+      "image_id": 2713667915,
+      "category_id": 1000000036,
+      "segmentation": [],
+      "area": 267,
+      "bbox": [
+        31,
+        153,
+        18,
+        60
+      ]
+    },
+    {
+      "id": 5641971925,
+      "image_id": 2713667915,
+      "category_id": 1000000036,
+      "segmentation": [],
+      "area": 345,
+      "bbox": [
+        30,
+        111,
+        36,
+        37
+      ]
+    },
+    {
+      "id": 8210479925,
+      "image_id": 2713667915,
+      "category_id": 1000000036,
+      "segmentation": [],
+      "area": 115,
+      "bbox": [
+        56,
+        77,
+        24,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000036,
+      "name": "Tomato_mosaic_virus",
+      "supercategory": "Tomato"
+    }
+  ]
+}
