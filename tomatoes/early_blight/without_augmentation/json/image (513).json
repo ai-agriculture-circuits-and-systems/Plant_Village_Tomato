@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 29.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_Erly.B 6494.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 9516776952,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (513).JPG",
+      "size": 12593,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_Erly.B 6494.JPG",
+      "pvc_filename": "3726eff6-547d-411e-bc00-f8b533d067e3___RS_Erly.B 6494.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1001115961,
+      "image_id": 9516776952,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 8874,
+      "bbox": [
+        68,
+        70,
+        188,
+        174
+      ]
+    },
+    {
+      "id": 7988730961,
+      "image_id": 9516776952,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 2226,
+      "bbox": [
+        44,
+        63,
+        55,
+        71
+      ]
+    },
+    {
+      "id": 2600920961,
+      "image_id": 9516776952,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 443,
+      "bbox": [
+        146,
+        54,
+        35,
+        35
+      ]
+    },
+    {
+      "id": 4419377961,
+      "image_id": 9516776952,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 952,
+      "bbox": [
+        82,
+        19,
+        62,
+        44
+      ]
+    },
+    {
+      "id": 9634936961,
+      "image_id": 9516776952,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 296,
+      "bbox": [
+        28,
+        27,
+        44,
+        18
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000029,
+      "name": "Early_blight",
+      "supercategory": "Tomato"
+    }
+  ]
+}

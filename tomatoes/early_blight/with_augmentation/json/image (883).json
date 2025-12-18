@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9340628193,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (883).JPG",
+      "size": 13111,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2595143203,
+      "image_id": 9340628193,
+      "category_id": 1000000029,
+      "segmentation": [],
+      "area": 14596,
+      "bbox": [
+        32,
+        0,
+        184,
+        239
+      ]
+    },
+    {
+      "id": 4227180203,
+      "image_id": 9340628193,
+      "category_id": 1000000029,
+      "segmentation": [],
+      "area": 3105,
+      "bbox": [
+        22,
+        3,
+        98,
+        105
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000029,
+      "name": "Early_blight",
+      "supercategory": "Tomato"
+    }
+  ]
+}

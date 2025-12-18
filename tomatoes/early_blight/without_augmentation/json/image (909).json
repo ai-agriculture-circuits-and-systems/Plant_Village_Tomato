@@ -1,0 +1,81 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 206.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_Erly.B 9443.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4168234008,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (909).JPG",
+      "size": 13368,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_Erly.B 9443.JPG",
+      "pvc_filename": "e4739018-9e7b-4251-917f-c8502e8b5e86___RS_Erly.B 9443.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8454402018,
+      "image_id": 4168234008,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 19464,
+      "bbox": [
+        18,
+        5,
+        238,
+        247
+      ]
+    },
+    {
+      "id": 3326041018,
+      "image_id": 4168234008,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 879,
+      "bbox": [
+        75,
+        188,
+        46,
+        53
+      ]
+    },
+    {
+      "id": 6506891018,
+      "image_id": 4168234008,
+      "category_id": 2000000029,
+      "segmentation": [],
+      "area": 363,
+      "bbox": [
+        67,
+        161,
+        32,
+        29
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000029,
+      "name": "Early_blight",
+      "supercategory": "Tomato"
+    }
+  ]
+}
