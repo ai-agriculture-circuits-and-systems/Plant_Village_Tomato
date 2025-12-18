@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 39.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 0158.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2883716755,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (32).JPG",
+      "size": 26591,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 0158.JPG",
+      "pvc_filename": "0e3feb72-86e5-41c2-a7ca-3295800e5777___RS_HL 0158.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6189519765,
+      "image_id": 2883716755,
+      "category_id": 2000000030,
+      "segmentation": [],
+      "area": 2709,
+      "bbox": [
+        81,
+        98,
+        96,
+        152
+      ]
+    },
+    {
+      "id": 2207195765,
+      "image_id": 2883716755,
+      "category_id": 2000000030,
+      "segmentation": [],
+      "area": 362,
+      "bbox": [
+        119,
+        135,
+        36,
+        48
+      ]
+    },
+    {
+      "id": 5728572765,
+      "image_id": 2883716755,
+      "category_id": 2000000030,
+      "segmentation": [],
+      "area": 346,
+      "bbox": [
+        158,
+        108,
+        36,
+        52
+      ]
+    },
+    {
+      "id": 9688173765,
+      "image_id": 2883716755,
+      "category_id": 2000000030,
+      "segmentation": [],
+      "area": 6191,
+      "bbox": [
+        110,
+        0,
+        128,
+        132
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000030,
+      "name": "healthy",
+      "supercategory": "Tomato"
+    }
+  ]
+}

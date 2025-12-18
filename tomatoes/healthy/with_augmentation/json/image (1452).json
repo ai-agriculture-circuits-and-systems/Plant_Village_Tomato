@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8105927459,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1452).JPG",
+      "size": 26031,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5133541470,
+      "image_id": 8105927459,
+      "category_id": 1000000030,
+      "segmentation": [],
+      "area": 13830,
+      "bbox": [
+        59,
+        10,
+        197,
+        242
+      ]
+    },
+    {
+      "id": 7042449470,
+      "image_id": 8105927459,
+      "category_id": 1000000030,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        53,
+        61,
+        21,
+        15
+      ]
+    },
+    {
+      "id": 1783366470,
+      "image_id": 8105927459,
+      "category_id": 1000000030,
+      "segmentation": [],
+      "area": 360,
+      "bbox": [
+        78,
+        22,
+        69,
+        36
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000030,
+      "name": "healthy",
+      "supercategory": "Tomato"
+    }
+  ]
+}
